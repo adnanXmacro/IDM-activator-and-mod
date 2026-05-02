@@ -16,9 +16,9 @@ This is the **V-D (Demo Version)** of the **IDM Mod** application, developed by 
 
 
 VALID_USERNAME = "User11100"
-VALID_PASSWORD = "11100"
+VALID_PASSWORD = "adnanXmacro"
 REDOTPAY_ID    = "1899721816"
-PRIME_PASS     = "ED7119"
+For prime pass, visit our store or dm us @8bitSoftWorks
 
 💎 Premium Version
 
