@@ -10,6 +10,9 @@ This is the **V-D (Demo Version)** of the **IDM Mod** application, developed by 
 - 🚫 Not a browser extension — this is a full application
 - 🔐 All rights reserved by **Project Adnan**
 
+## Tutorial 
+https://drive.google.com/file/d/19Pw0WXDflNKUGgXy1KJV4bNTz7HoAOXZ/view?usp=drivesdk
+
 ---
 
 ## 🔑 Access Credentials
